@@ -22,4 +22,4 @@
 
 <img src="https://github.com/OhCaesar/OhCaesar/assets/155546784/59891323-83b1-4084-8e04-b8acafd4d124" width="0px" >
 
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OhCaesar&theme=apprentice" height="180em" /> <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OhCaesar&theme=apprentice&background-color=transparent" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OhCaesar&theme=apprentice" width="30%" /> <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OhCaesar&theme=apprentice&background-color=transparent" width="60%" />
