@@ -1,4 +1,4 @@
-<h1 text-align="center"> ᴸᵒʳᵈ Cserich Philipp</h1>
+<h1 text-align="center"> <sup>DREAMER</sup> Cserich Philipp</h1>
 
 <p>
   Hi, my name is Philipp Cserich and I am an austrian Software Dev.<br>
