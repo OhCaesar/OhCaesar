@@ -15,10 +15,10 @@
   <h3>Programming Languages </h3>
  <hr>
  
-**90%**&emsp;&emsp;<img src="https://img.shields.io/badge/-spring-FFE2B7?logo=spring&logoColor=ffffff&no-frame=true&no-bg=true">&emsp;&emsp;Java/Kotlin <br>
-**80%**&emsp;&emsp;<img src="https://img.shields.io/badge/-.net-EF9A64?logo=.net&logoColor=fff">&emsp;&emsp;&emsp;C# .Net <br>
-**90%**&emsp;&emsp;![HTML Icon](https://img.shields.io/badge/-HTML-D06624?logo=html5&logoColor=fff) &emsp;&emsp;HTML <br>
-**70%**&emsp;&emsp;![CSS Icon](https://img.shields.io/badge/-css-883400?logo=css3&logoColor=fff) &emsp;&emsp;&emsp;CSS <br>
+&emsp;&emsp;<img src="https://img.shields.io/badge/-spring-FFE2B7?logo=spring&logoColor=ffffff&no-frame=true&no-bg=true">&emsp;&emsp;Java/Kotlin <br>
+&emsp;&emsp;<img src="https://img.shields.io/badge/-.net-EF9A64?logo=.net&logoColor=fff">&emsp;&emsp;&emsp;C# .Net <br>
+&emsp;&emsp;![HTML Icon](https://img.shields.io/badge/-HTML-D06624?logo=html5&logoColor=fff) &emsp;&emsp;HTML <br>
+&emsp;&emsp;![CSS Icon](https://img.shields.io/badge/-css-883400?logo=css3&logoColor=fff) &emsp;&emsp;&emsp;CSS <br>
 <hr>
 </p>
 
